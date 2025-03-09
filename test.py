@@ -4,3 +4,4 @@ print("ok")
 print("help")
 print("123")
 a=1
+a = 123
